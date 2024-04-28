@@ -1,12 +1,15 @@
 {
   "name": "@imarunpatel/tiny",
   "version": "1.0.0",
-  "description": "",
+  "description": "Removes all spaces from a string",
+  "repository": "bamblehorse/tiny",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ],
+  "author": "Arun Patel",
   "license": "ISC"
 }
